@@ -3,4 +3,5 @@ Works in Versions &lt;= 2018
 
 Resets the trial which is 7 days.
 Works if you didn't change the path where you installed. Otherwise, you have to modify the codes.
-Only for Windows, NOT MAC or LINUX
+
+Only for Windows, NOT MAC or LINUX.
