@@ -1,5 +1,5 @@
 # AdobeCracker
-English:
+## English:
 
 Works in Versions &lt;= 2018
 
@@ -8,7 +8,7 @@ Works if you didn't change the path where you installed. Otherwise, you have to 
 
 Only for Windows, NOT MAC or LINUX.
 
-Türkçe:
+## Türkçe:
 
 Sadece 2018 ve altı versiyonlarda çalışır.
 
