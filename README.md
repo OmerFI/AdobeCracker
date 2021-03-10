@@ -6,6 +6,7 @@
 - Works if you didn't change the path where you installed. Otherwise, you have to modify the codes.
 - Only for Windows, NOT MAC or LINUX.
 - Requires Admin/Administrator privileges.
+- Requires Python3.x
 
 ## Türkçe:
 
@@ -14,3 +15,4 @@
 - Eğer yükleme yolunu değiştirmediyseniz çalışır. Aksi takdirde kodları düzeltmeniz gerekmektedir.
 - Sadece Windows içindir, MAC veya LINUX için çalışmaz.
 - Admin/Administrator yetkisi gerektirir.
+- Python3.x gerektirir.
