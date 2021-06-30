@@ -1,4 +1,4 @@
-# AdobeCracker
+# AdobeTrialResetter
 ## English:
 
 - Works in Versions &lt;= 2018
